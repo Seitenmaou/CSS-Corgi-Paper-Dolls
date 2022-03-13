@@ -4,9 +4,9 @@
     bottom: 109px;
 }
 .bandana{
-    position: relative;
-    right: 127px;
-    bottom: 62px;
+    position: absolute;
+    right: 458px;
+    bottom: 74px;
 }
 .pawprint{
     position: fixed;
